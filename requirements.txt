@@ -8,7 +8,7 @@ itsdangerous==1.1.0
 Janome==0.3.9
 Jinja2==2.11.3
 MarkupSafe==1.1.1
-numpy==1.21.0
+numpy==1.22.0
 protobuf==3.15.0
 six==1.12.0
 typing==3.6.6
