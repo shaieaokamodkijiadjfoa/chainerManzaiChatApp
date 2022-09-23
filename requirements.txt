@@ -9,7 +9,7 @@ Janome==0.3.9
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 numpy==1.22.0
-protobuf==3.15.0
+protobuf==3.18.3
 six==1.12.0
 typing==3.6.6
 typing-extensions==3.6.6
